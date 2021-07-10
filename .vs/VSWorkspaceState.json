@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\API",
+    "\\Website",
     "\\Website\\AddressBook",
     "\\Website\\AddressBook\\src"
   ],
-  "SelectedNode": "\\API\\AddressBook.sln",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
