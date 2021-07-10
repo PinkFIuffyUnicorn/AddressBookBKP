@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tsKFLgYDKlvME18gz0bbaAL8HYVwEP4C47zr4s2tponkt6XRZ0JXLRLig3AlXyMPCY4Z/UCtoEHADEDmzLm3cQ==",
+  "dgSpecHash": "KEcBfmdA1oOQ3+lSipxc1c3MizKDpLqrbU8u8XuCRf9XnDG9YrvtBJ82LzGXQNIIA1G7Mpy7bE35Ob/OSYGgpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\AddressBook\\AddressBook.csproj",
+  "projectFilePath": "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\API\\AddressBook\\AddressBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nabernik\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nabernik\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

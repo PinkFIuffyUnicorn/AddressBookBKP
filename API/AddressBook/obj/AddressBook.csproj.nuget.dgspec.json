@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\AddressBook\\AddressBook.csproj": {}
+    "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\API\\AddressBook\\AddressBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\AddressBook\\AddressBook.csproj": {
+    "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\API\\AddressBook\\AddressBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\AddressBook\\AddressBook.csproj",
+        "projectUniqueName": "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\API\\AddressBook\\AddressBook.csproj",
         "projectName": "AddressBook",
-        "projectPath": "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\AddressBook\\AddressBook.csproj",
+        "projectPath": "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\API\\AddressBook\\AddressBook.csproj",
         "packagesPath": "C:\\Users\\Nabernik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\AddressBook\\obj\\",
+        "outputPath": "C:\\Users\\Nabernik\\Source\\Repos\\PinkFIuffyUnicorn\\AddressBook\\API\\AddressBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
